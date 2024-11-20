@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 function page() {
   return (
-    <div></div>
+    <div>Selam aleyküm</div>
   )
 }
 
